@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "eailgeNWeg9/2ifIrFeoSvzXBusi0XkRcTaAM/WK/IPpVNv9ZZZhsiC+QdIyOvQVet3TKrHRArKLY2PUwRmhNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bogai\\OneDrive\\Рабочий стол\\3rdCourse\\web 2\\Lab 1\\WEB ASP 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bogai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.27\\microsoft.netcore.app.host.win-x64.3.1.27.nupkg.sha512",
+    "C:\\Users\\bogai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\bogai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\bogai\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
